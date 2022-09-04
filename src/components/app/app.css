@@ -1,0 +1,12 @@
+.app {
+  margin: 0 auto;
+  max-width: 800px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  /* background-color: aqua; */
+}
+
+#root {
+  background-color:aliceblue;
+  min-height: 100vh;
+}
